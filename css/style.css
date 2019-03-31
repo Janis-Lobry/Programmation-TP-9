@@ -1,0 +1,36 @@
+div {
+  margin: -1px;
+  background: black;
+  color: white;
+  border: 1px solid white;
+  padding: 30px;
+  width: 20%;
+}
+
+.post-ctn {
+    width: 50%;
+    margin-left: 350px;
+}
+.comments-ctn {
+  width: 50%;
+  margin-left: 350px;
+}
+button {
+  border: none;
+  background: black;
+  color: white;
+  display: inherit;
+}
+label {
+font-weight: bold;
+color: gray;
+    font-size: 2rem;
+}
+h4 {
+  font-size: 1rem;
+  font-weight: bold;
+  color: gray;
+}
+.small, small {
+    font-size: 55%;
+  }
